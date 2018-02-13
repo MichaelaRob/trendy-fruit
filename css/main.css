@@ -11,3 +11,35 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.gravitas {
+  font-family: 'Gravitas One', cursive;
+}
+.rammetto {
+  font-family: 'Rammetto One', cursive;
+}
+
+.comfortaa {
+  font-family: 'Comfortaa', cursive;
+}
+
+.section-1 {
+  background-color: #e97065;
+}
+
+.section-2 {
+  background-color: #fbd25e;
+}
+
+.section-3 {
+  background-color: #e86033;
+}
