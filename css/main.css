@@ -34,7 +34,7 @@ p {
 }
 
 .comfortaa {
-  font-family: "Comfortaa", cursive;
+  font-family: 'Comfortaa', cursive;
 }
 
 .section-1 {
@@ -47,4 +47,8 @@ p {
 
 .section-3 {
   background-color: #e86033;
+}
+
+.text {
+  max-width: 35em;
 }
